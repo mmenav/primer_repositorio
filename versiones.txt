@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
 versiones 1-2
 Estas snon lineas de 
 una nueva caracter´sitica
->>>>>>> otra_rama

@@ -1,5 +1,6 @@
 version 1-2
-Este archivo de versiones
 está en la rama otra_rama chukis
 porqueria
 hola bebesota
+bebota
+
